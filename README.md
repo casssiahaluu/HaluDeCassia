@@ -1,6 +1,9 @@
-## Hi there, I'm Halú 👋 :computer:
+# Hello! I'm Halú <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32px"> :computer:
+
+I'm a dev human being front-end in search of making a difference using technology
 
 - 🌱 I’m currently learning **TDD tests with Jest, React Hooks, NextJS**
+- :construction_worker: I'm changing jobs
 - ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `.html`, `.css`,`.json`
 - 👯 I’m looking to collaborate on **open source projects with social impact**
 - 🤔 I’m looking for help with **TDD and strange JavaScript things**
@@ -9,4 +12,4 @@
 - ⚡ Fun fact: I'm a Drag King too :crown: :tophat:! Here: [O Romeu](https://www.instagram.com/o_king_romeu/)
 
 ### Contact me :mailbox:
-[![Twitter Badge](https://img.shields.io/badge/-@haludecassia-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/haludecassia)](https://twitter.com/haludecassia) [![Linkedin Badge](https://img.shields.io/badge/-haludecassia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halu-de-cassia/)](https://www.linkedin.com/in/halu-de-cassia/) [![Instagran Badge](https://img.shields.io/badge/-haludecassia.css-magenta?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/halucassia.css)](https://www.instagram.com/halucassia.css)
+[![Twitter Badge](https://img.shields.io/badge/-@haludecassia-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/haludecassia)](https://twitter.com/haludecassia) [![Linkedin Badge](https://img.shields.io/badge/-haludecassia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halu-de-cassia/)](https://www.linkedin.com/in/halu-de-cassia/) [![Instagran Badge](https://img.shields.io/badge/-haludecassia.css-e44a82?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/halucassia.css)](https://www.instagram.com/halucassia.css) [![Gmail Badge](https://img.shields.io/badge/-haluanedecassia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haluanedecassia@gmail.com)](mailto:haluanedecassia@gmail.com)
