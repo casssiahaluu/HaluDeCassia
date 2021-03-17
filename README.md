@@ -3,7 +3,7 @@
 I'm a dev human being front-end in search of making a difference using technology
 
 - 🌱 I’m currently learning **TDD tests with Jest, React Hooks, NextJS**
-- :construction_worker: I'm changing jobs
+- :construction_worker: I`m working in [ThougthWors](https://www.thoughtworks.com/)! 🎉
 - ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `.html`, `.css`,`.json`
 - 👯 I’m looking to collaborate on **open source projects with social impact**
 - 🤔 I’m looking for help with **TDD and strange JavaScript things**
