@@ -8,7 +8,7 @@ I'm a dev human being front-end in search of making a difference using technolog
 - 👯 I’m looking to collaborate on **open source projects with social impact**
 - 🤔 I’m looking for help with **TDD and strange JavaScript things**
 - 💬 Ask me about **CSS, HTML, React, Stardew Valley, The Sims and Makeup**
-- 😄 Pronouns: **whatever you want! (She/They/He.../Any pronouns)**
+- 😄 Pronouns: **neutrals (they/them, elu/delu...**
 - ⚡ Fun fact: I'm a Drag King too :crown: :tophat:! Here: [O Romeu](https://www.instagram.com/o_king_romeu/)
 - 🔗 Other links: https://apptuts.bio/halu-aka-romeu
 
