@@ -1,4 +1,4 @@
-# Hello! I'm Halú <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32px"> :computer:
+# Hello! I'm Halu <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32px"> :computer:
 
 I'm a dev human being front-end in search of making a difference using technology
 
